@@ -8,8 +8,6 @@ This is my very first Python project developed during my time at university. The
 
 I created this game to practice Python fundamentals such as loops, functions, conditionals, and basic user input handling. It runs entirely in the terminal and offers a playful way to test your logic and guessing skills.
 
-I'm excited to keep learning and building more projects like this!
-
 ## 🎮 How to Play
 
 - The computer will secretly choose **4 fruits** from:
@@ -34,8 +32,3 @@ Make sure you have Python installed. Then, in the terminal:
 
 ```bash
 python mastermind.py
-
-# P.S.
-# This was my first Python project during university,
-# and even though it's simple, I had a lot of fun building it and learning along the way.
-# Thanks for checking it out! 😊

@@ -31,4 +31,4 @@ You win when you guess all 4 fruits in the correct order!
 Make sure you have Python installed. Then, in the terminal:
 
 ```bash
-python mastermind.py
+python Mastermindgame.py

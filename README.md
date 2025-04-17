@@ -26,3 +26,6 @@ Make sure you have Python installed. Then, in the terminal:
 
 ```bash
 python mastermind.py
+
+**P.S.**  
+This was my first Python project during university, and even though it's simple, I had a lot of fun building it and learning along the way. Thanks for checking it out! 😊
